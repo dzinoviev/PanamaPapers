@@ -8,4 +8,4 @@ The largest community consists of 106,184 nodes.
 
 One of the communities contains references to Sergey Roldugin, Russian cellist and close friend of the Russian president. 
 The repository has an SVG file cc32.csv showing the structure of that community. Node sizes represent degrees, 
-and colors represent second-level communities. Numeric node names represent "THE BEARER." (Apparently an anonymous offcial.)
+and colors represent second-level communities. Numeric node names represent "THE BEARER." (Apparently an anonymous official.)
