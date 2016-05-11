@@ -1,6 +1,10 @@
 import pandas as pd
 import networkx as nx
 import numpy as np
+import sys
+
+if sys.version_info.major < 3: sys.exit("Python 3.x or above required")
+if float(nx.__version__) < 1.11: sys.exit("Networkx 1.11 or above required")
 
 # Read the edge list and convert it to a network
 edges = pd.read_csv("all_edges.csv")
