@@ -1,4 +1,4 @@
- The Panama Papers represent a massive leak of offshore corporate entity information (~320,000 entities) 
+ The Panama Papers https://www.occrp.org/en/panamapapers/database represent a massive leak of offshore corporate entity information (~320,000 entities) 
  from the Panamanian law firm Mossack Fonseca. The network has 838,105 nodes and 1,208,613 edges. 
  There are 11,816 connected components, of which the largest one (the GCC) has 730,601 nodes and 1,104,306 edges. 
  The component sizes have a roughly power law distribution with the exponent of -0.026.
